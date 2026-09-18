@@ -1,0 +1,9 @@
+{
+  "name": "pipeline-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Build successful",
+    "test": "node test.js",
+    "deploy": "echo Deploy successful"
+  }
+}
